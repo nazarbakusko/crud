@@ -1,0 +1,9 @@
+eu\dreamix\crud\CrudApp.class
+eu\dreamix\crud\domain\Employee.class
+eu\dreamix\crud\rest\DepartmentResource.class
+eu\dreamix\crud\service\EmployeeService.class
+eu\dreamix\crud\repository\DepartmentRepository.class
+eu\dreamix\crud\rest\EmployeeResource.class
+eu\dreamix\crud\service\DepartmentService.class
+eu\dreamix\crud\domain\Department.class
+eu\dreamix\crud\repository\EmployeeRepository.class
